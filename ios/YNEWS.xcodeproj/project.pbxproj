@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* InshortsCloneTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* InshortsCloneTests.m */; };
+		00E356F31AD99517003FC87E /* YNEWSTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* YNEWSTests.m */; };
 		06EE423361D043018B8CE3B7 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0D5E9C3E191A4E46908E2ECF /* Zocial.ttf */; };
 		07539482B5D6441081039A01 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B76621B1AE8341F49CC1D75E /* Foundation.ttf */; };
 		0EC5DB99F5E84B23B5C50BE2 /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2A982BCE3CB1454C8A77B5C1 /* Octicons.ttf */; };
@@ -18,7 +18,7 @@
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* InshortsCloneTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* InshortsCloneTests.m */; };
+		2DCD954D1E0B4F2C00145EB5 /* YNEWSTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* YNEWSTests.m */; };
 		315770A0F1D5412B98C4EDFF /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D2752F1050FE4D2188204CD4 /* SimpleLineIcons.ttf */; };
 		4AA151EE885F4759A06594A9 /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C4ECD8970AFF4EEAA8D0300D /* FontAwesome5_Regular.ttf */; };
 		4EDA2D3E008144DFBBE1C034 /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F87D64D035BA485C8F49BF04 /* Feather.ttf */; };
@@ -27,14 +27,14 @@
 		9650A31DE529490C8B914921 /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EB9BE537B6D0499CAB44CBD1 /* AntDesign.ttf */; };
 		A131799C3CC543F3B84FFE5C /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AFD4BE309B4A45D489DD9011 /* FontAwesome5_Solid.ttf */; };
 		A8971C89E82443C3BA5497E6 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CA0B2C6FC828496F8FA74F77 /* EvilIcons.ttf */; };
-		A9021C2AEFDA2BE456619FB5 /* libPods-InshortsCloneTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4EC2B991F8D6668A4BA9F759 /* libPods-InshortsCloneTests.a */; };
+		A9021C2AEFDA2BE456619FB5 /* libPods-YNEWSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4EC2B991F8D6668A4BA9F759 /* libPods-YNEWSTests.a */; };
 		AA24BC8E76A74855AE7A434A /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = ADF2A17DFF3348399DBB18BA /* Entypo.ttf */; };
 		B26808E3312D42D8839D33BE /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6F40DCBCDC8040C280A01EE6 /* FontAwesome.ttf */; };
 		C3F5BF95555745AEB3549D7A /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03C54F497E594B4DAB962798 /* MaterialIcons.ttf */; };
-		C61A61B7D384A739392F25A4 /* libPods-InshortsClone-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 95B4639012B902B6826C3588 /* libPods-InshortsClone-tvOS.a */; };
+		C61A61B7D384A739392F25A4 /* libPods-YNEWS-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 95B4639012B902B6826C3588 /* libPods-YNEWS-tvOS.a */; };
 		CD72FCF853C746E099701857 /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A70CACD9CFE9466DAFD4D4EA /* FontAwesome5_Brands.ttf */; };
-		CFB0588A3829B121DCFAE91E /* libPods-InshortsClone-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 345CFE948623BB1A24191C7F /* libPods-InshortsClone-tvOSTests.a */; };
-		E1D285C1F1889D4833B34FE9 /* libPods-InshortsClone.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 76DCCA3071D23B6E38AD5FDA /* libPods-InshortsClone.a */; };
+		CFB0588A3829B121DCFAE91E /* libPods-YNEWS-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 345CFE948623BB1A24191C7F /* libPods-YNEWS-tvOSTests.a */; };
+		E1D285C1F1889D4833B34FE9 /* libPods-YNEWS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 76DCCA3071D23B6E38AD5FDA /* libPods-YNEWS.a */; };
 		FA797F144EE94094899A3BA8 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0B205090071A457FACCF6933 /* Ionicons.ttf */; };
 /* End PBXBuildFile section */
 
@@ -44,49 +44,49 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = InshortsClone;
+			remoteInfo = YNEWS;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "InshortsClone-tvOS";
+			remoteInfo = "YNEWS-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* InshortsCloneTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InshortsCloneTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* YNEWSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YNEWSTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* InshortsCloneTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InshortsCloneTests.m; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* YNEWSTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YNEWSTests.m; sourceTree = "<group>"; };
 		03C54F497E594B4DAB962798 /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
 		0830929CFE9E4A0FBACC4A82 /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
 		0B205090071A457FACCF6933 /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
 		0D5E9C3E191A4E46908E2ECF /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* InshortsClone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InshortsClone.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = InshortsClone/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = InshortsClone/AppDelegate.m; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* YNEWS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YNEWS.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = YNEWS/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = YNEWS/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = InshortsClone/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = InshortsClone/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = InshortsClone/main.m; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = YNEWS/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = YNEWS/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = YNEWS/main.m; sourceTree = "<group>"; };
 		2A982BCE3CB1454C8A77B5C1 /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* InshortsClone-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "InshortsClone-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* InshortsClone-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "InshortsClone-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3176C98C34E34696AED90325 /* Pods-InshortsClone-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InshortsClone-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-InshortsClone-tvOS/Pods-InshortsClone-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		345CFE948623BB1A24191C7F /* libPods-InshortsClone-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-InshortsClone-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4EC2B991F8D6668A4BA9F759 /* libPods-InshortsCloneTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-InshortsCloneTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5A89FC75073ED5F374DC87E7 /* Pods-InshortsClone-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InshortsClone-tvOS.release.xcconfig"; path = "Target Support Files/Pods-InshortsClone-tvOS/Pods-InshortsClone-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		613961F801D9F25EE7BD3BF0 /* Pods-InshortsClone.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InshortsClone.release.xcconfig"; path = "Target Support Files/Pods-InshortsClone/Pods-InshortsClone.release.xcconfig"; sourceTree = "<group>"; };
+		2D02E47B1E0B4A5D006451C7 /* YNEWS-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "YNEWS-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* YNEWS-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "YNEWS-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3176C98C34E34696AED90325 /* Pods-YNEWS-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YNEWS-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-YNEWS-tvOS/Pods-YNEWS-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		345CFE948623BB1A24191C7F /* libPods-YNEWS-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-YNEWS-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4EC2B991F8D6668A4BA9F759 /* libPods-YNEWSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-YNEWSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A89FC75073ED5F374DC87E7 /* Pods-YNEWS-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YNEWS-tvOS.release.xcconfig"; path = "Target Support Files/Pods-YNEWS-tvOS/Pods-YNEWS-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		613961F801D9F25EE7BD3BF0 /* Pods-YNEWS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YNEWS.release.xcconfig"; path = "Target Support Files/Pods-YNEWS/Pods-YNEWS.release.xcconfig"; sourceTree = "<group>"; };
 		6F40DCBCDC8040C280A01EE6 /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
-		76DCCA3071D23B6E38AD5FDA /* libPods-InshortsClone.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-InshortsClone.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		77A284B396A35B4FB1A59E5C /* Pods-InshortsClone-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InshortsClone-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-InshortsClone-tvOSTests/Pods-InshortsClone-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-		95B4639012B902B6826C3588 /* libPods-InshortsClone-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-InshortsClone-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		978AB3524F49724A5B56BE62 /* Pods-InshortsCloneTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InshortsCloneTests.release.xcconfig"; path = "Target Support Files/Pods-InshortsCloneTests/Pods-InshortsCloneTests.release.xcconfig"; sourceTree = "<group>"; };
-		A5BF9A684ECB49C0F1652445 /* Pods-InshortsClone-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InshortsClone-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-InshortsClone-tvOSTests/Pods-InshortsClone-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		76DCCA3071D23B6E38AD5FDA /* libPods-YNEWS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-YNEWS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		77A284B396A35B4FB1A59E5C /* Pods-YNEWS-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YNEWS-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-YNEWS-tvOSTests/Pods-YNEWS-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		95B4639012B902B6826C3588 /* libPods-YNEWS-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-YNEWS-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		978AB3524F49724A5B56BE62 /* Pods-YNEWSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YNEWSTests.release.xcconfig"; path = "Target Support Files/Pods-YNEWSTests/Pods-YNEWSTests.release.xcconfig"; sourceTree = "<group>"; };
+		A5BF9A684ECB49C0F1652445 /* Pods-YNEWS-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YNEWS-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-YNEWS-tvOSTests/Pods-YNEWS-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		A70CACD9CFE9466DAFD4D4EA /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
-		AD259C7C615DEFACBD4DDE52 /* Pods-InshortsClone.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InshortsClone.debug.xcconfig"; path = "Target Support Files/Pods-InshortsClone/Pods-InshortsClone.debug.xcconfig"; sourceTree = "<group>"; };
+		AD259C7C615DEFACBD4DDE52 /* Pods-YNEWS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YNEWS.debug.xcconfig"; path = "Target Support Files/Pods-YNEWS/Pods-YNEWS.debug.xcconfig"; sourceTree = "<group>"; };
 		ADF2A17DFF3348399DBB18BA /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
 		AFD4BE309B4A45D489DD9011 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
 		B677A20ADB274A9BA39E6C4B /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
@@ -97,7 +97,7 @@
 		EB9BE537B6D0499CAB44CBD1 /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
-		EFB0D43373B23EB02C48EB92 /* Pods-InshortsCloneTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InshortsCloneTests.debug.xcconfig"; path = "Target Support Files/Pods-InshortsCloneTests/Pods-InshortsCloneTests.debug.xcconfig"; sourceTree = "<group>"; };
+		EFB0D43373B23EB02C48EB92 /* Pods-YNEWSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YNEWSTests.debug.xcconfig"; path = "Target Support Files/Pods-YNEWSTests/Pods-YNEWSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		F87D64D035BA485C8F49BF04 /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -106,7 +106,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A9021C2AEFDA2BE456619FB5 /* libPods-InshortsCloneTests.a in Frameworks */,
+				A9021C2AEFDA2BE456619FB5 /* libPods-YNEWSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -114,7 +114,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E1D285C1F1889D4833B34FE9 /* libPods-InshortsClone.a in Frameworks */,
+				E1D285C1F1889D4833B34FE9 /* libPods-YNEWS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -122,7 +122,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C61A61B7D384A739392F25A4 /* libPods-InshortsClone-tvOS.a in Frameworks */,
+				C61A61B7D384A739392F25A4 /* libPods-YNEWS-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -130,20 +130,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CFB0588A3829B121DCFAE91E /* libPods-InshortsClone-tvOSTests.a in Frameworks */,
+				CFB0588A3829B121DCFAE91E /* libPods-YNEWS-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* InshortsCloneTests */ = {
+		00E356EF1AD99517003FC87E /* YNEWSTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* InshortsCloneTests.m */,
+				00E356F21AD99517003FC87E /* YNEWSTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = InshortsCloneTests;
+			path = YNEWSTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -154,7 +154,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* InshortsClone */ = {
+		13B07FAE1A68108700A75B9A /* YNEWS */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -165,7 +165,7 @@
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = InshortsClone;
+			name = YNEWS;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -173,10 +173,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				76DCCA3071D23B6E38AD5FDA /* libPods-InshortsClone.a */,
-				95B4639012B902B6826C3588 /* libPods-InshortsClone-tvOS.a */,
-				345CFE948623BB1A24191C7F /* libPods-InshortsClone-tvOSTests.a */,
-				4EC2B991F8D6668A4BA9F759 /* libPods-InshortsCloneTests.a */,
+				76DCCA3071D23B6E38AD5FDA /* libPods-YNEWS.a */,
+				95B4639012B902B6826C3588 /* libPods-YNEWS-tvOS.a */,
+				345CFE948623BB1A24191C7F /* libPods-YNEWS-tvOSTests.a */,
+				4EC2B991F8D6668A4BA9F759 /* libPods-YNEWSTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -191,9 +191,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* InshortsClone */,
+				13B07FAE1A68108700A75B9A /* YNEWS */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* InshortsCloneTests */,
+				00E356EF1AD99517003FC87E /* YNEWSTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				8960D2C3C1C395FDAACB2AFE /* Pods */,
@@ -207,10 +207,10 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* InshortsClone.app */,
-				00E356EE1AD99517003FC87E /* InshortsCloneTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* InshortsClone-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* InshortsClone-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* YNEWS.app */,
+				00E356EE1AD99517003FC87E /* YNEWSTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* YNEWS-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* YNEWS-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -218,14 +218,14 @@
 		8960D2C3C1C395FDAACB2AFE /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				AD259C7C615DEFACBD4DDE52 /* Pods-InshortsClone.debug.xcconfig */,
-				613961F801D9F25EE7BD3BF0 /* Pods-InshortsClone.release.xcconfig */,
-				3176C98C34E34696AED90325 /* Pods-InshortsClone-tvOS.debug.xcconfig */,
-				5A89FC75073ED5F374DC87E7 /* Pods-InshortsClone-tvOS.release.xcconfig */,
-				A5BF9A684ECB49C0F1652445 /* Pods-InshortsClone-tvOSTests.debug.xcconfig */,
-				77A284B396A35B4FB1A59E5C /* Pods-InshortsClone-tvOSTests.release.xcconfig */,
-				EFB0D43373B23EB02C48EB92 /* Pods-InshortsCloneTests.debug.xcconfig */,
-				978AB3524F49724A5B56BE62 /* Pods-InshortsCloneTests.release.xcconfig */,
+				AD259C7C615DEFACBD4DDE52 /* Pods-YNEWS.debug.xcconfig */,
+				613961F801D9F25EE7BD3BF0 /* Pods-YNEWS.release.xcconfig */,
+				3176C98C34E34696AED90325 /* Pods-YNEWS-tvOS.debug.xcconfig */,
+				5A89FC75073ED5F374DC87E7 /* Pods-YNEWS-tvOS.release.xcconfig */,
+				A5BF9A684ECB49C0F1652445 /* Pods-YNEWS-tvOSTests.debug.xcconfig */,
+				77A284B396A35B4FB1A59E5C /* Pods-YNEWS-tvOSTests.release.xcconfig */,
+				EFB0D43373B23EB02C48EB92 /* Pods-YNEWSTests.debug.xcconfig */,
+				978AB3524F49724A5B56BE62 /* Pods-YNEWSTests.release.xcconfig */,
 			);
 			name = Pods;
 			path = Pods;
@@ -258,9 +258,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* InshortsCloneTests */ = {
+		00E356ED1AD99517003FC87E /* YNEWSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "InshortsCloneTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "YNEWSTests" */;
 			buildPhases = (
 				A80455E180F67861ADD68A5D /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -272,14 +272,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = InshortsCloneTests;
-			productName = InshortsCloneTests;
-			productReference = 00E356EE1AD99517003FC87E /* InshortsCloneTests.xctest */;
+			name = YNEWSTests;
+			productName = YNEWSTests;
+			productReference = 00E356EE1AD99517003FC87E /* YNEWSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* InshortsClone */ = {
+		13B07F861A680F5B00A75B9A /* YNEWS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "InshortsClone" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "YNEWS" */;
 			buildPhases = (
 				DCEE6A2396C11E9428A821B5 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -293,14 +293,14 @@
 			);
 			dependencies = (
 			);
-			name = InshortsClone;
-			productName = InshortsClone;
-			productReference = 13B07F961A680F5B00A75B9A /* InshortsClone.app */;
+			name = YNEWS;
+			productName = YNEWS;
+			productReference = 13B07F961A680F5B00A75B9A /* YNEWS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* InshortsClone-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* YNEWS-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "InshortsClone-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "YNEWS-tvOS" */;
 			buildPhases = (
 				18AD90288CD908BC572406F8 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -313,14 +313,14 @@
 			);
 			dependencies = (
 			);
-			name = "InshortsClone-tvOS";
-			productName = "InshortsClone-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* InshortsClone-tvOS.app */;
+			name = "YNEWS-tvOS";
+			productName = "YNEWS-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* YNEWS-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* InshortsClone-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* YNEWS-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "InshortsClone-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "YNEWS-tvOSTests" */;
 			buildPhases = (
 				6853F4FE098062076D08267D /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -332,9 +332,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "InshortsClone-tvOSTests";
-			productName = "InshortsClone-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* InshortsClone-tvOSTests.xctest */;
+			name = "YNEWS-tvOSTests";
+			productName = "YNEWS-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* YNEWS-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -361,7 +361,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "InshortsClone" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "YNEWS" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -374,10 +374,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* InshortsClone */,
-				00E356ED1AD99517003FC87E /* InshortsCloneTests */,
-				2D02E47A1E0B4A5D006451C7 /* InshortsClone-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* InshortsClone-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* YNEWS */,
+				00E356ED1AD99517003FC87E /* YNEWSTests */,
+				2D02E47A1E0B4A5D006451C7 /* YNEWS-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* YNEWS-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -462,7 +462,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-InshortsClone-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-YNEWS-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -489,7 +489,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-InshortsClone/Pods-InshortsClone-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-YNEWS/Pods-YNEWS-resources.sh",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
@@ -528,7 +528,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-InshortsClone/Pods-InshortsClone-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-YNEWS/Pods-YNEWS-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		6853F4FE098062076D08267D /* [CP] Check Pods Manifest.lock */ = {
@@ -546,7 +546,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-InshortsClone-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-YNEWS-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -568,7 +568,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-InshortsCloneTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-YNEWSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -590,7 +590,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-InshortsClone-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-YNEWS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -642,7 +642,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* InshortsCloneTests.m in Sources */,
+				00E356F31AD99517003FC87E /* YNEWSTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -668,7 +668,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* InshortsCloneTests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* YNEWSTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -677,12 +677,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* InshortsClone */;
+			target = 13B07F861A680F5B00A75B9A /* YNEWS */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* InshortsClone-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* YNEWS-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -694,7 +694,7 @@
 				13B07FB21A68108700A75B9A /* Base */,
 			);
 			name = LaunchScreen.xib;
-			path = InshortsClone;
+			path = YNEWS;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -702,14 +702,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EFB0D43373B23EB02C48EB92 /* Pods-InshortsCloneTests.debug.xcconfig */;
+			baseConfigurationReference = EFB0D43373B23EB02C48EB92 /* Pods-YNEWSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = InshortsCloneTests/Info.plist;
+				INFOPLIST_FILE = YNEWSTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -719,17 +719,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/InshortsClone.app/InshortsClone";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/YNEWS.app/YNEWS";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 978AB3524F49724A5B56BE62 /* Pods-InshortsCloneTests.release.xcconfig */;
+			baseConfigurationReference = 978AB3524F49724A5B56BE62 /* Pods-YNEWSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = InshortsCloneTests/Info.plist;
+				INFOPLIST_FILE = YNEWSTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -739,18 +739,18 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/InshortsClone.app/InshortsClone";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/YNEWS.app/YNEWS";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = AD259C7C615DEFACBD4DDE52 /* Pods-InshortsClone.debug.xcconfig */;
+			baseConfigurationReference = AD259C7C615DEFACBD4DDE52 /* Pods-YNEWS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
-				INFOPLIST_FILE = InshortsClone/Info.plist;
+				INFOPLIST_FILE = YNEWS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -758,18 +758,18 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = InshortsClone;
+				PRODUCT_NAME = YNEWS;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 613961F801D9F25EE7BD3BF0 /* Pods-InshortsClone.release.xcconfig */;
+			baseConfigurationReference = 613961F801D9F25EE7BD3BF0 /* Pods-YNEWS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = InshortsClone/Info.plist;
+				INFOPLIST_FILE = YNEWS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -777,14 +777,14 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = InshortsClone;
+				PRODUCT_NAME = YNEWS;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3176C98C34E34696AED90325 /* Pods-InshortsClone-tvOS.debug.xcconfig */;
+			baseConfigurationReference = 3176C98C34E34696AED90325 /* Pods-YNEWS-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -795,14 +795,14 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "InshortsClone-tvOS/Info.plist";
+				INFOPLIST_FILE = "YNEWS-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.InshortsClone-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.YNEWS-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -812,7 +812,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5A89FC75073ED5F374DC87E7 /* Pods-InshortsClone-tvOS.release.xcconfig */;
+			baseConfigurationReference = 5A89FC75073ED5F374DC87E7 /* Pods-YNEWS-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -823,14 +823,14 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "InshortsClone-tvOS/Info.plist";
+				INFOPLIST_FILE = "YNEWS-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.InshortsClone-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.YNEWS-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -840,7 +840,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A5BF9A684ECB49C0F1652445 /* Pods-InshortsClone-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = A5BF9A684ECB49C0F1652445 /* Pods-YNEWS-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -850,24 +850,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "InshortsClone-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "YNEWS-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.InshortsClone-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.YNEWS-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/InshortsClone-tvOS.app/InshortsClone-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/YNEWS-tvOS.app/YNEWS-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 77A284B396A35B4FB1A59E5C /* Pods-InshortsClone-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = 77A284B396A35B4FB1A59E5C /* Pods-YNEWS-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -877,17 +877,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "InshortsClone-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "YNEWS-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.InshortsClone-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.YNEWS-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/InshortsClone-tvOS.app/InshortsClone-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/YNEWS-tvOS.app/YNEWS-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -994,7 +994,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "InshortsCloneTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "YNEWSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -1003,7 +1003,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "InshortsClone" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "YNEWS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -1012,7 +1012,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "InshortsClone-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "YNEWS-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -1021,7 +1021,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "InshortsClone-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "YNEWS-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -1030,7 +1030,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "InshortsClone" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "YNEWS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,
