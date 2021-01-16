@@ -1,8 +1,8 @@
 platform :ios, '9.0'
 require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
 
-target 'InshortsClone' do
-  # Pods for InshortsClone
+target 'YNEWS' do
+  # Pods for YNEWS
   pod 'React', :path => '../node_modules/react-native/'
   pod 'React-Core', :path => '../node_modules/react-native/React'
   pod 'React-DevSupport', :path => '../node_modules/react-native/React'
@@ -37,7 +37,7 @@ target 'InshortsClone' do
 
   pod 'BVLinearGradient', :path => '../node_modules/react-native-linear-gradient'
 
-  target 'InshortsCloneTests' do
+  target 'YNEWSTests' do
     inherit! :search_paths
     # Pods for testing
   end
@@ -45,10 +45,10 @@ target 'InshortsClone' do
   use_native_modules!
 end
 
-target 'InshortsClone-tvOS' do
-  # Pods for InshortsClone-tvOS
+target 'YNEWS-tvOS' do
+  # Pods for YNEWS-tvOS
 
-  target 'InshortsClone-tvOSTests' do
+  target 'YNEWS-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end

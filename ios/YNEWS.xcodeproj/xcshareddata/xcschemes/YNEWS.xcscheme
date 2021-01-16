@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "InshortsClone.app"
-               BlueprintName = "InshortsClone"
-               ReferencedContainer = "container:InshortsClone.xcodeproj">
+               BuildableName = "YNEWS.app"
+               BlueprintName = "YNEWS"
+               ReferencedContainer = "container:YNEWS.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "InshortsCloneTests.xctest"
-               BlueprintName = "InshortsCloneTests"
-               ReferencedContainer = "container:InshortsClone.xcodeproj">
+               BuildableName = "YNEWSTests.xctest"
+               BlueprintName = "YNEWSTests"
+               ReferencedContainer = "container:YNEWS.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "InshortsCloneTests.xctest"
-               BlueprintName = "InshortsCloneTests"
-               ReferencedContainer = "container:InshortsClone.xcodeproj">
+               BuildableName = "YNEWSTests.xctest"
+               BlueprintName = "YNEWSTests"
+               ReferencedContainer = "container:YNEWS.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "InshortsClone.app"
-            BlueprintName = "InshortsClone"
-            ReferencedContainer = "container:InshortsClone.xcodeproj">
+            BuildableName = "YNEWS.app"
+            BlueprintName = "YNEWS"
+            ReferencedContainer = "container:YNEWS.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "InshortsClone.app"
-            BlueprintName = "InshortsClone"
-            ReferencedContainer = "container:InshortsClone.xcodeproj">
+            BuildableName = "YNEWS.app"
+            BlueprintName = "YNEWS"
+            ReferencedContainer = "container:YNEWS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "InshortsClone.app"
-            BlueprintName = "InshortsClone"
-            ReferencedContainer = "container:InshortsClone.xcodeproj">
+            BuildableName = "YNEWS.app"
+            BlueprintName = "YNEWS"
+            ReferencedContainer = "container:YNEWS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
